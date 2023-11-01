@@ -17,3 +17,6 @@ The pygame library may not be able to find the needed libraries. If this is the 
 Also, it can have library issues when running in pycharm GUI. Better start it from the terminal.
 
 More info: https://stackoverflow.com/questions/71010343/cannot-load-swrast-and-iris-drivers-in-fedora-35
+
+
+![](game.png)
